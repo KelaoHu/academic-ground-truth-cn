@@ -4,6 +4,8 @@
 
 A skill (a reusable instruction pack) that turns a multimodal LLM into a strict citation fact-checker for Chinese academic writing.
 
+**English** | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-HK.md)
+
 English README, Chinese skill files — that split is deliberate: the work product is Chinese prose, the tooling conversation usually isn't.
 
 ---
@@ -113,7 +115,7 @@ Default house style: 《中国社会科学》杂志社引文注释规定（2026�
 
 ## Versioning
 
-Semantic versioning, currently at **0.1.1**. See [CHANGELOG.md](CHANGELOG.md).
+Semantic versioning, currently at **0.1.2**. See [CHANGELOG.md](CHANGELOG.md).
 
 ## Contributing
 

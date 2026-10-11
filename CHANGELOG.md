@@ -2,6 +2,19 @@
 
 All notable changes to **academic-ground-truth (CN)**. This project follows semantic versioning.
 
+## [0.1.2] — 2026-10-11
+
+Documentation only. The skill itself is unchanged; this release translates the repository's front matter into Chinese and gives the three language versions a shared switcher.
+
+### Added
+
+- `README.zh-CN.md` — Simplified Chinese README, organised as sixteen numbered sections (scope, constraints, pipeline, verification rounds, status and evidence, never list, field data, untested paths, limitations, repository layout, installation, formats, licence, responsibility, version, contributing). The pipeline, the five verification rounds and the field data are tabulated rather than prose.
+- `README.zh-HK.md` — Traditional Chinese README with the same structure and section numbering.
+
+### Changed
+
+- `README.md` gains the language switcher line beneath the summary.
+
 ## [0.1.1] — 2026-10-11 (first tagged release)
 
 0.1.0 was published as a sequence of file-by-file commits and never tagged. This release marks that snapshot rather than adding to it, so the version number and the reference list are lifted to 0.1.1 and everything else is unchanged. No behavioural change.
