@@ -210,5 +210,5 @@ description: 为已有正文初稿的中文学术论文（人文社科）寻找�
 
 - 默认格式全文：`references/cssn-citation-rules-2026.md`
 - 无文字层图书定位规程：`references/locating-image-only-books.md`
-- 可切换格式：`references/gbt7714-2015-cheatsheet.md`（**未实测路径**，截至 0.1.0 未在真实任务中执行；使用者提供机构自定义格式时以该文件为准，但诚实红线优先于任何格式要求）
+- 可切换格式：`references/gbt7714-2015-cheatsheet.md`（**未实测路径**，截至 0.1.1 未在真实任务中执行；使用者提供机构自定义格式时以该文件为准，但诚实红线优先于任何格式要求）
 - 报告模板：`templates/citation-report-template.md`

@@ -113,7 +113,7 @@ Default house style: 《中国社会科学》杂志社引文注释规定（2026�
 
 ## Versioning
 
-Semantic versioning, starting at **0.1.0**. See [CHANGELOG.md](CHANGELOG.md).
+Semantic versioning, currently at **0.1.1**. See [CHANGELOG.md](CHANGELOG.md).
 
 ## Contributing
 

@@ -2,6 +2,10 @@
 
 All notable changes to **academic-ground-truth (CN)**. This project follows semantic versioning.
 
+## [0.1.1] — 2026-10-11 (first tagged release)
+
+0.1.0 was published as a sequence of file-by-file commits and never tagged. This release marks that snapshot rather than adding to it, so the version number and the reference list are lifted to 0.1.1 and everything else is unchanged. No behavioural change.
+
 ## [0.1.0] — 2026-10-10 (first public release)
 
 Initial release, consolidated from six internal development iterations and one full-article field run (~30 sources, 8 batches, 24 verified footnotes, 1 rejection, 3 draft-sentence corrections).
